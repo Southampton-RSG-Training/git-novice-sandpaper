@@ -1,11 +1,8 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: FIXME
+title: Version Control with Git
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,10 +10,35 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - name: Southampton Research Software Group
+  - family-names: Mangham
+    given-names: Sam
+    orcid: 'https://orcid.org/0000-0001-7511-5652'
+  - family-names: Crouch
+    given-names: Steve
+    orcid: 'https://orcid.org/0000-0001-8985-6814'
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  Automated Version Control is a process for tracking
+  changes to files and folders within a "repository". This
+  workshop will teach you how to use the Git version control
+  system to manage your code, tracking changes to files,
+  inspecting and merging multiple different changes, and how
+  to collaborate with other Git users using the GitHub
+  online respository store.
 license: CC-BY-4.0
+references:
+  - title: Software Carpentry - Version Control with Git
+    type: data
+    doi: 10.5281/zenodo.3264950
+    version: 2019.06.1
+    authors:
+      - family-names: Gonzalez
+        given-names: Ivan
+      - family-names: Huang
+        given-names: Daisie
+      - family-names: Hejazi
+        given-names: Nima
+      - family-names: Koziar
+        given-names: Katherine
+      - family-names: Munk
+        given-names: Madicken
