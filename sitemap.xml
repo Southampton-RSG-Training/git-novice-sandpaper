@@ -1,75 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/01-background.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/02-setup.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/03-create.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/aio.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/04-changes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/citation.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/05-history.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/images.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/06-remote.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/07-branches.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/08-ignore.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/99-survey.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/aio.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/citation.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/images.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/citation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/discussion.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/key-points.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/01-background.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/02-setup.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor-notes.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/03-create.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/04-changes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/key-points.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/05-history.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/06-remote.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/07-branches.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/08-ignore.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/404.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/99-survey.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/CODE_OF_CONDUCT.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/discussion.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/images.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor/slides.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://Southampton-RSG-Training.github.io/git-novice-sandpaper/slides.html</loc>
   </url>
 </urlset>
